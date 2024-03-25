@@ -1,4 +1,20 @@
 ---
+- conference: PyData Eindhoven
+  alt_name: PyData EH
+  year: 2024
+  link: https://pydata.org/eindhoven2024/call-for-proposals
+  cfp: '2024-05-13 23:59:00'
+  timezone: Europe/Amsterdam
+  place: Eindhoven, the Netherlands
+  date: July 11, 2024
+  start: 2024-07-11
+  end: 2024-07-11
+  sponsor: https://pydata.org/eindhoven2024/sponsorship-opportunites
+  sub: PY
+  location:
+  - latitude: 51.4383999131
+    longitude: 5.46712979814
+
 
 - conference: PyCon Poland
   alt_name: PyCon PL
