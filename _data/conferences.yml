@@ -1,6 +1,6 @@
 ---
 - conference: PyData Eindhoven
-  alt_name: PyData EH
+  alt_name: PyData EHV
   year: 2024
   link: https://pydata.org/eindhoven2024/call-for-proposals
   cfp: '2024-05-13 23:59:00'
@@ -14,7 +14,6 @@
   location:
   - latitude: 51.4383999131
     longitude: 5.46712979814
-
 
 - conference: PyCon Poland
   alt_name: PyCon PL
